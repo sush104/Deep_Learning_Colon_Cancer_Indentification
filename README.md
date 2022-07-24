@@ -22,3 +22,8 @@ Normal epithelial cells (shown orange).
 Cancer epithelial cells (shown in red).
 Immune leukocyte cells (shown in green).
 Connective fibroblast cells (shown in blue).
+
+The goal of this coursework is to develop a ConvNet that can predict the cell type of the images in the test.zip file
+
+For more details refer to below kaggle competation:
+https://www.kaggle.com/competitions/deep-learning-for-msc-coursework-2022/overview/description
