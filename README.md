@@ -27,3 +27,10 @@ The goal of this coursework is to develop a ConvNet that can predict the cell ty
 
 For more details refer to below kaggle competation:
 https://www.kaggle.com/competitions/deep-learning-for-msc-coursework-2022/overview/description
+
+Download data from below URL:
+https://www.kaggle.com/competitions/deep-learning-for-msc-coursework-2022/data
+
+File Structure:
+Put the downloaded data folder in the same directory as the ipynb file.
+
